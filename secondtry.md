@@ -7,7 +7,8 @@ a->hi, b->oh ok
 
 ```laydown
 [f, g, h
-J]
+J
+f->J, g->J, h->J]
 
 
 
