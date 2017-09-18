@@ -8,7 +8,7 @@ a->hi, b->oh ok
 ```laydown
 f, g, h
 J
-f->J, g->J, h->J
+f->J g->J h->J
 
 
 
